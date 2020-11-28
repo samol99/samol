@@ -44,4 +44,4 @@ async def send(ctx, *, content: str):
                 await client.say("DM can't Sent To : {} :x: ".format(member))
 
 
-client.run("YOUR BOT'S TOKEN HERE")                
+client.run("NzgyMDU1NzA5MDg0ODc2ODIw.X8GoIg.DRB4Qv9Fk3uK8e-yowZg1KFJDvI")                
